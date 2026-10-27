@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054003777653",
+    "project_id": "hku-bike",
+    "storage_bucket": "hku-bike.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054003777653:android:2cc7327ff0fdf47ebb283c",
+        "android_client_info": {
+          "package_name": "com.example.hku_bike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS_1Jol0zkPYU1-1c2Emsys6_KgpxSQ-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
